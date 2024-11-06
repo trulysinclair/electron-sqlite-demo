@@ -1,6 +1,6 @@
-# electron-sqlite
+# Electron + Sqlite3 + Prisma
 
-An Electron application with React and TypeScript
+An Electron application with `better-sqlite3` and `prisma`.
 
 ## Recommended IDE Setup
 
