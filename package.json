@@ -22,7 +22,10 @@
   },
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.1",
-    "@electron-toolkit/utils": "^3.0.0"
+    "@electron-toolkit/utils": "^3.0.0",
+    "@prisma/client": "^5.22.0",
+    "better-sqlite3": "^11.5.0",
+    "prisma": "^5.22.0"
   },
   "devDependencies": {
     "@electron-toolkit/eslint-config-prettier": "^2.0.0",
